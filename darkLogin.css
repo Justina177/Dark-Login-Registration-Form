@@ -14,7 +14,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #333;
+    background: rgb(62, 62, 62);
 }
 
 .container {
